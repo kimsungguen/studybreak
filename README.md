@@ -27,11 +27,11 @@
 |6시00분~6시10분 | Breaking Time                          |         |         |                                                     |
 |                | 3부                                    |         |         |                      |
 |6시10분 ~       | 바이오스핀 소개                        | 김가경  |   [커뮤니티](https://www.facebook.com/groups/biospin/), [활동 내역](http://biospin.github.io)      |                                                     |
-|                | (초청발표) 암 유전체 데이터를 이용한 진단 모델 구축 사례 | 지용기  |    암 환자의 RNA 데이터와 기계학습을 이용해서 진단 모델을 구축하는 사례를 소개한다     |           |
+|                | (초청발표) 암 유전체 데이터를 이용한 진단 모델 구축 사례 | 지용기  |    암 환자의 RNA 데이터와 기계학습을 이용해서 진단 모델을 구축하는 사례를 소개한다     | [slide](https://drive.google.com/file/d/0B_Ekt7icI0htc3UybFE0UXd5YjQ/view)           |
 |                | (초청발표) python in neuroimaging  | 조강익  |  neuroimaging에 대한 인트로와 python 삽질기 (nipy / parallel processing) |  [slide](https://drive.google.com/file/d/0Bw594TdiBdAUUWtqSTNGSng2anM/view)   |
 |7시00분~7시10분 | Breaking Time                          |         |         |                                                            |
 |                | 4부                                    |         |         |                      |
-|7시10분 ~       | 싸이지먼트 소개                        | 김성근  |  [커뮤니티](https://www.facebook.com/groups/psygement/), [활동 내역](http://psygement.github.io/)       | |
+|7시10분 ~       | 싸이지먼트 소개                        | 김성근  |  [커뮤니티](https://www.facebook.com/groups/psygement/), [활동 내역](http://psygement.github.io/)       |[slide](https://drive.google.com/file/d/0B_Ekt7icI0htb2FUb2NYZC1wSHM/view)  |
 |                | (초청발표) 여성 의류 쇼핑몰 데이터 분석 | 김승욱  | 온라인 여성의류 쇼핑몰 오픈 직후 6개월치 자료를 살펴보면서 데이터 전처리와 향후 데이터 수집방안, 그리고 모델링에 대해 토의해보는 시간을 가져보고자 한다.  |  [slide](https://drive.google.com/file/d/0Bw594TdiBdAUWlZGSmFZNjZYcXc/view)    |
 |                | (초청발표) Estimating Volatility using R | 박경원  | 옵션가격결정을 위한 변동성 추정 방법중 수치해석 기법인 newton raphson과 bisection method이 있다. 이를 이용해서 변동성 추정하는 예를, R 코드와 함께 살펴본다.  | [slide](https://drive.google.com/file/d/0Bw594TdiBdAUMzZvaG5faVc1MmM/view)  |
 |8시00분~8시 10분    | Breaking Time                          |         |         |                                                             |
